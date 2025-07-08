@@ -8,8 +8,8 @@
 - 🌱 I'm learning Python, Data Science, DevOps. I do design in Figma for private projects
 - I like challenging tasks and writing low-level network interfaces on Python sockets.
 - 📫 How to contact me:
-  \ntelegram: iagafon
-  email: iiagafon@yandex.ru
+**Telegram:** [@iagafon](https://t.me/iagafon)  
+**Email:** [iiagafon@yandex.ru](mailto:iiagafon@yandex.ru) 
 
 ### 🛠️ Technologies and tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
