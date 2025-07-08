@@ -20,7 +20,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 📈 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=iagafon&theme=radical)
 
 ### 📫 Contacts
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/iagafon)
