@@ -24,4 +24,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iiagafon@yandex.ru)  
 
 ### 📌 Projects  
-I don't have any public projects yet.
+⭐️ **[Employment Schedule Checker](https://github.com/iagafon/employment-schedule)**  
+Python сервис для проверки доступности временных слотов сотрудника  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-v2-9200FF?style=flat)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=poetry&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
+**Особенности:**  
+✓ Работа с API расписания  
+✓ Поиск свободных окон  
+✓ Валидация данных через Pydantic  
+✓ Полное покрытие тестами
