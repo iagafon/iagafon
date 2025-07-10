@@ -4,8 +4,8 @@
 
 ### About Me
 
-- 🧑🏻‍💻 Python Developer at Avenir (the best development team in Russia in 2024)
-- 🌱 I'm learning Python, Data Science, DevOps. I do design in Figma for private projects
+- 🧑🏻‍💻 Python Developer at Avenir (the best development team in Russia in 2024).
+- 🌱 I'm learning Python, Data Science, DevOps. I do design in Figma for private projects.
 - 🎯 I like challenging tasks and writing low-level network interfaces on Python sockets.
 
 ### 🛠️ Technologies and tools
