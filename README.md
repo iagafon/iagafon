@@ -24,7 +24,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iiagafon@yandex.ru)  
 
 ### 📌 Projects  
-⭐️ **[Employment Schedule](https://github.com/iagafon/employment-schedule)**  
+⭐️ **[Employment Schedule](https://github.com/iagafon/employment_schedule)**  
 Python сервис для проверки доступности временных слотов сотрудника  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-v2-9200FF?style=flat)
