@@ -1,15 +1,15 @@
 # Hello, my name is Daniil Agafonov!
 
-🚀 I'm a Python Developer, DevOps and Designer | 📍 Saint Petersburg, Russia
+🚀 I'm a Backend Developer, DevOps and Designer | 📍 Saint Petersburg, Russia
 
 ### About Me
 
-- 🧑🏻‍💻 Python Developer at Avenir (the best development team in Russia in 2024).
-- 🌱 I'm learning Python, Data Science, DevOps. I do design in Figma for private projects.
-- 🎯 I like challenging tasks and writing low-level network interfaces on Python sockets.
+- 🧑🏻‍💻 Backend Developer.
+- 🌱 I'm learning Go, Data Science, DevOps. I do design in Figma for private projects.
 
 ### 🛠️ Technologies and tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&style=flat&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
