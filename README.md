@@ -5,7 +5,6 @@
 ### About Me
 
 - 🧑🏻‍💻 Backend Developer.
-- 🌱 I'm learning Go, Data Science, DevOps. I do design in Figma for private projects.
 
 ### 🛠️ Technologies and tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
